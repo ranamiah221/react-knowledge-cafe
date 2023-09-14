@@ -1,15 +1,20 @@
 
 import './App.css'
+import Header from './components/Header/Header'
+import Blogs from './components/Blogs/Blogs';
+import BoookmarkBlogs from './components/BookmarkBlogs/BoookmarkBlogs';
+
 
 function App() {
   
 
   return (
     <>
-      
-      <h1 className='text-5xl font-bold text-red-500 bg-amber-300'>React Knowledge Cafe</h1>
-     
-      
+      <Header></Header>
+      <div className='flex'>
+        <Blogs></Blogs>
+        <BoookmarkBlogs></BoookmarkBlogs>
+      </div>
     </>
   )
 }

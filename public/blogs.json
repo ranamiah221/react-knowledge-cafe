@@ -1,0 +1,53 @@
+[
+     {
+        "id": 1,
+        "cover": "https://i.ibb.co/qDnZHMJ/hal-gatewood-Ogvq-XGL7-XO4-unsplash.jpg",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/9rt9Whp/member1.png",
+        "posted_date": "2023-09-14",
+        "reading_time": "5",
+        "title": "The Advenauthor_imgture Begins",
+        "hashtag": "#Adventure"
+      },
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co/CJCttxb/html-system-websites-concept.jpg",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/PrtVMn1/member3.png",
+        "posted_date": "2023-09-15",
+        "reading_time": "9",
+        "title": "Mystical Forest",
+        "hashtag": "#Fantasy"
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/9H5CNdX/programming-script-text-coding-word.jpg",
+        "author": "Lucy Brown",
+        "author_img": "https://i.ibb.co/XDwvTJh/member4.png",
+        "posted_date": "2023-09-16",
+        "reading_time": "3",
+        "title": "Lost in Time",
+        "hashtag": "#TimeTravel"
+      },
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co/Khspv7s/undraw-Shopping-Bags-wf5t.png",
+        "author": "Samuel Green",
+        "author_img": "https://i.ibb.co/N99F8xx/member2.png",
+        "posted_date": "2023-09-17",
+        "reading_time": "5",
+        "title": "Underwater Mysteries",
+        "hashtag": "#Mystery"
+      },
+      {
+        "id": 5,
+        "cover": "https://i.ibb.co/YPVrK6w/shutterstock-739595833-min.jpg",
+        "author": "Eleanor Turner",
+        "author_img": "https://i.ibb.co/9rt9Whp/member1.png",
+        "posted_date": "2023-09-18",
+        "reading_time": "6",
+        "title": "Echoes of Atlantis",
+        "hashtag": "#History"
+      }                 
+      
+]
